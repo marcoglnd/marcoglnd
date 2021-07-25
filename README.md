@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, JS, HTML, CSS**
 
-- ⚡ Fun fact **I love playing videogames, exercising and solving problems**
+- ⚡ Fun fact: **I love playing videogames, exercising and solving problems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
