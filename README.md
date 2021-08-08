@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marco Galindo</h1>
 <h3 align="center">A web developer from Brasil</h3>
 
-- 🌱 I’m currently learning **Front-end development at Trybe**
+- 🌱 I’m currently learning **Web development at Trybe**
 
 - 👨‍💻 All of my projects are available at [https://marcoglnd.github.io/](https://marcoglnd.github.io/)
 
