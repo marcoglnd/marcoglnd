@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **React, JS, HTML, CSS**
 
-- 📫 How to reach me: email at **marco1408@gmail.com**
-
 - ⚡ Fun fact: **I love playing videogames, exercising and solving problems**
 
 <h3 align="left">Connect with me:</h3>
