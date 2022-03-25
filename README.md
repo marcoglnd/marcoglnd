@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://marcoglnd.github.io/](https://marcoglnd.github.io/)
 
-- 💬 Ask me about **React, JS, HTML, CSS**
+- 💬 Ask me about **Python, gRPC, NodeJS, React**
 
 - ⚡ Fun fact: **I love playing videogames, exercising and solving problems**
 
