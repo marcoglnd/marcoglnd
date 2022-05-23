@@ -2,7 +2,7 @@
 <h3 align="center">A web developer from Brazil</h3>
 
 
-- 🌱 I’m currently learning **Web Development at Trybe**
+- 🌱 I’m currently learning **Go at MercadoLibre**
 
 - 👨‍💻 All of my projects are available at [https://marcoglnd.github.io/](https://marcoglnd.github.io/)
 
